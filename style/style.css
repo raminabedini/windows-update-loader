@@ -4,9 +4,9 @@ body {
 }
 .dot {
   position: absolute;
-  width: 10px;
-  height: 10px;
-  background-color: #0097fb;
+  width: 5px;
+  height: 5px;
+  background-color: #ffffff;
   border-radius: 50%;
   top: 50%;
   transform: translate(0, -50%);
